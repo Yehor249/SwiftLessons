@@ -17,9 +17,6 @@ if a < b {
     c = b
 }
 
-let text = "123"
-
-
 
 c =  (a < b) ? a : b
 
